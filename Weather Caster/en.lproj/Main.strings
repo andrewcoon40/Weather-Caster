@@ -1,0 +1,9 @@
+
+/* Class = "UINavigationItem"; title = "Forecast"; ObjectID = "EGb-Zd-bQZ"; */
+"EGb-Zd-bQZ.title" = "Forecast";
+
+/* Class = "UILabel"; text = "40-50"; ObjectID = "Yqi-j8-wY1"; */
+"Yqi-j8-wY1.text" = "40-50";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "dgR-mz-1v8"; */
+"dgR-mz-1v8.text" = "Today";
